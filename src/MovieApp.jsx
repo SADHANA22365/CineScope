@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import MovieCard from "./MovieCard";
 import "./App.css";
 
-const API_KEY = "416a0160"; // Replace with your OMDb API key
+const API_KEY = "416a0160"; 
 
 // Trending movies (popular & easily identified by OMDb)
 const trendingMovies = [
